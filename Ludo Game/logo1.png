@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logo Example</title>
+</head>
+<body>
+    <h1>Logo Example</h1>
+    
+    <!-- Specify the image source using the src attribute -->
+    <img src="logo1.png" alt="Company Logo">
+    
+    <p>This is your company logo.</p>
+</body>
+</html>
